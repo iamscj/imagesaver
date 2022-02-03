@@ -1,0 +1,1 @@
+web gunicorn tp.wsgi:application --log-file -
